@@ -40,8 +40,7 @@ const SG = {
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://in.linkedin.com/in/shiyad-a">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="shiyad-a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shiyad-a?trk=profile-badge">Shiyad A</a></div>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="shiyad-a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shiyad-a?trk=profile-badge"></div>
 </a>
 <a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shiyada" height="30" width="40" /></a>
 </div>
