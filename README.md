@@ -39,10 +39,7 @@ const SG = {
 <td valign="top" width="50%">
 <div>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://in.linkedin.com/in/shiyad-a">
-  <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shiyada" height="30" width="40" /></a>
 </div>
 </p>
