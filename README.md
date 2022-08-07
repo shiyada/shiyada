@@ -1,11 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Shiyad</h1>
 <h3 align="center">I am a developer from India, interested in building web apps, apis.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiyada&label=Profile%20views&color=0e75b6&style=flat" alt="shiyada" /> </p>
-<div>
-<h3 align="left">Connect with me:</h3>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shiyada" height="30" width="40" /></a>
-</div>
 <img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" />
 
 ```javascript
@@ -43,6 +38,15 @@ const SG = {
 </td>
 <td valign="top" width="50%">
 <div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://in.linkedin.com/in/shiyad-a">
+  <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shiyada" height="30" width="40" /></a>
+</div>
+</p>
+<div>
 <h3 align="left">Languages and Tools:</h3>
   
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,react,angular,typescript,nodejs,express,py,flask,laravel,latex,mongo,postgres,mysql,androidstudio,arduino,git,github,jenkins,docker,k8s,aws,gcp,linux)]
@@ -54,29 +58,6 @@ const SG = {
 <table>
 <tr>
 <td>
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='manavoza7'
->
-  <a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
-  >
-    Manav Oza
-  </a>
-</div>
-
- <script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shiyada&show_icons=true&locale=en&theme=default" alt="shiyada" />
 </td>
