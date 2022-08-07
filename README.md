@@ -41,7 +41,7 @@ const SG = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://in.linkedin.com/in/shiyad-a">
-  <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="shiyad-a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shiyad-a?trk=profile-badge">Shiyad A</a></div>
 </a>
 <a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shiyada" height="30" width="40" /></a>
 </div>
@@ -69,6 +69,7 @@ const SG = {
 <img align="center" src="https://raw.githubusercontent.com/shiyada/shiyada/main/working.svg" alt="developer image" />
 </div>
 <p align="right"><sup>Images from https://www.freepik.com/</sup></p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
