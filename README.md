@@ -22,7 +22,7 @@ const SG = {
         misc: ["Firebase"],
         cloud:["Aws"]
     },
- funFact: ""
+ 
 }
 ```
 
@@ -37,6 +37,7 @@ const SG = {
 - 💬 Ask me about **Microservices, web development**
 </td>
 <td valign="top" width="50%">
+<tr>
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,12 +45,14 @@ const SG = {
   <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
+</tr>
+<tr>
 <div>
 <h3 align="left">Languages and Tools:</h3>
   
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,react,angular,typescript,nodejs,express,git,py,)]
-[![Devops Skills](https://skills.thijs.gg/icons?i=jenkins,)]
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,react,angular,typescript,nodejs,express,py,flask,laravel,latex,mongo,postgres,mysql,androidstudio,arduino,git,github,jenkins,docker,k8s,aws,gcp,linux)]
 </div>
+</tr>
 </td></tr>
 </table>
   
