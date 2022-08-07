@@ -4,7 +4,7 @@
 <img align="center" src="https://raw.githubusercontent.com/Dhruvaraju/Dhruvaraju/main/programmer.svg" alt="developer image" />
 
 ```javascript
-const dhruva = {
+const SG = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   askMeAbout: ["web dev", "api", "app dev"],
