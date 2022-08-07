@@ -31,26 +31,32 @@ const SG = {
 <td valign="top" width="50%">
   
 - 🔭 I’m currently working on _Java, React and Python_.
+- 🌱 I’m currently learning Devops and Cloud_.
 - 👯 I would love to collaborate on any **app development and open source projects**
 - 👨‍💻 All of my projects are available at [shiyada](https://github.com/shiyada?tab=repositories)
 - 💬 Ask me about **Microservices, web development**
 </td>
 <td valign="top" width="50%">
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://in.linkedin.com/in/shiyad-a">
   <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+</div>
+<div>
 <h3 align="left">Languages and Tools:</h3>
   
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,react,angular,typescript,nodejs,express,git,py,groovy)]
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,react,angular,typescript,nodejs,express,git,py,)]
+[![Devops Skills](https://skills.thijs.gg/icons?i=jenkins,)]
+</div>
 </td></tr>
 </table>
   
 <table>
 <tr>
 <td>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shiyada&show_icons=true&locale=en&theme=default" alt="shiyada" />
 </td>
 <td>
@@ -62,7 +68,7 @@ const SG = {
 </div>
 <p align="right"><sup>Images from https://www.freepik.com/</sup></p>
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -70,4 +76,4 @@ const SG = {
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
