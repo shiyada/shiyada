@@ -44,7 +44,7 @@ const SG = {
   <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
-
+</p>
 <div>
 <h3 align="left">Languages and Tools:</h3>
   
