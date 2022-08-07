@@ -42,7 +42,6 @@ const SG = {
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shiyada" height="30" width="40" /></a>
 </div>
-</p>
 <div>
 <h3 align="left">Languages and Tools:</h3>
   
