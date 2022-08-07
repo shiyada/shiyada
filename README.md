@@ -43,6 +43,10 @@ const SG = {
   <a href="https://in.linkedin.com/in/shiyad-a">
   <img align="left" alt="Shiyad A | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://discord.gg/D2y3ETbR79">
+  <img align="left" alt="clarke-allen's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://dev.to/dhruvaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dhruvaraju" height="30" width="40" /></a>
 </div>
 </p>
 <div>
