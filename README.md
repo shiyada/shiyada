@@ -69,7 +69,6 @@ const SG = {
 <img align="center" src="https://raw.githubusercontent.com/shiyada/shiyada/main/working.svg" alt="developer image" />
 </div>
 <p align="right"><sup>Images from https://www.freepik.com/</sup></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
