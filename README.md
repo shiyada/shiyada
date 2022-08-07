@@ -54,6 +54,29 @@ const SG = {
 <table>
 <tr>
 <td>
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='manavoza7'
+>
+  <a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
+
+ <script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shiyada&show_icons=true&locale=en&theme=default" alt="shiyada" />
 </td>
